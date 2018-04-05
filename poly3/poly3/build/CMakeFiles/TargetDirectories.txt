@@ -1,0 +1,6 @@
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/PolyLib/CMakeFiles/PolyLib.dir
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/PolyEval/CMakeFiles/PolyConsole.dir
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/PolyCalc/CMakeFiles/PolyCalc.dir
+C:/Users/Matthew/Documents/CSI 2320/poly3/poly3/build/PolyTest/CMakeFiles/PolyTest.dir

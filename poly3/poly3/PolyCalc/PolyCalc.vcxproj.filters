@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Matthew\Documents\CSI 2320\poly3\poly3\PolyCalc\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Matthew\Documents\CSI 2320\poly3\poly3\PolyCalc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{72F97B92-9783-3906-8B5C-D3FAFD9C3ACC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
