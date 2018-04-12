@@ -1,0 +1,3 @@
+﻿  CountTrigrams.cpp
+c:\users\matthew\documents\csi 2320\counttrigrams\counttrigrams\counttrigrams.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  CountTrigrams.vcxproj -> C:\Users\Matthew\Documents\CSI 2320\CountTrigrams\Debug\CountTrigrams.exe
